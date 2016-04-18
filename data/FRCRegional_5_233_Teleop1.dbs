@@ -1,0 +1,89 @@
+------------------------
+[ Tele-Op Records ]
+------------------------
+portculis Score
+{
+portScore:(0)
+portAbility:(0)
+}
+
+cheval de frise Score
+{
+chevalScore:(E2)
+chevalAbility:(0)
+}
+
+Moat Score
+{
+moatScore:(0)
+moatAbility:(0)
+}
+
+Ramparts Score
+{
+rampartsScore:(0)
+rampartsAbility:(0)
+}
+
+Drawbridge Score
+{
+drawbridgeScore:(0)
+drawbridgeAbility:(0)
+}
+
+SallyPort Score
+{
+sallyScore:(0)
+sallyAbility:(0)
+}
+
+RockWall Score
+{
+rockwallScore:(0)
+rockwallAbility:(0)
+}
+
+Rough Terrain Score
+{
+roughScore:(0)
+roughAbility:(0)
+}
+
+Low Bar Score
+{
+lowbarScore:(1)
+lowbarAbility:(0)
+}
+
+FieldComments
+{
+FieldComments:(233 got stuck or disabled on 3rd go on the low bar)
+}
+
+HAPC // Help a partner cross ( This section was removed for continutiy reasons)
+{
+HAPC_Portcullis:(0)
+HAPC_Cheval-de-Frise:(0)
+HAPC_Moat:(0)
+HAPC_Ramparts:(0)
+HAPC_Drawbridge:(0)
+HAPC_SallyPort:(0)
+HAPC_Rockwall:(0)
+HAPC_RoughTerrain:(0)
+HAPC_LowBar:(0)
+}
+
+HTC // Had trouble crossing
+{
+HTC_Portcullis:(0)
+HTC_Cheval-de-Frise:(0)
+HTC_Moat:(0)
+HTC_Ramparts:(0)
+HTC_Drawbridge:(0)
+HTC_SallyPort:(0)
+HTC_Rockwall:(0)
+HTC_RoughTerrain:(0)
+HTC_LowBar:(1)
+}
+
+#End

@@ -1,0 +1,88 @@
+# | FRCRegional_6_5427.dbs |
+
+[ Auton Records ]
+
+portculis
+{
+portStart:(0)
+portReach:(0)
+portCross:(0)
+}
+
+cheval de frise
+{
+chevalStart:(0)
+chevalReach:(0)
+chevalCross:(0)
+}
+
+Moat
+{
+moatStart:(0)
+moatReach:(0)
+moatCross:(0)
+}
+
+Ramparts
+{
+rampartsStart:(0)
+rampartsReach:(0)
+rampartsCross:(0)
+}
+
+Drawbridge
+{
+drawbridgeStart:(0)
+drawbridgeReach:(0)
+drawbridgeCross:(0)
+}
+
+SallyPort
+{
+sallyStart:(0)
+sallyReach:(1)
+sallyCross:(0)
+}
+
+RockWall
+{
+rockwallStart:(0)
+rockwallReach:(0)
+rockwallCross:(0)
+}
+
+Rough Terrain
+{
+roughStart:(0)
+roughReach:(0)
+roughCross:(0)
+}
+
+Low Bar
+{
+lowbarStart:(1)
+lowbarReach:(1)
+lowbarCross:(0)
+}
+
+spybot
+{
+areYouASpyBot:(1)
+}
+
+Started With A Ball
+{
+startedWithBall:(1)
+}
+
+Auton Comments
+{
+(We are in this match)  2897 got stuck )
+}
+
+Auton Shot
+{
+Shoot in Auton Capibility:(1)
+}
+
+#End

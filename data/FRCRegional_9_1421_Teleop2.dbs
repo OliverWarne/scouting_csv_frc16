@@ -1,0 +1,50 @@
+---------------------------
+[ Tele-Op Records Part 2 ]
+---------------------------
+
+Low Goal Scores
+{
+LGS:(2)
+}
+
+Low Goal Fails
+{
+LGF:(0)
+}
+
+High Goal Scores
+{
+HGS:(0)
+}
+
+High Goal Fails
+{
+HGF:(0)
+}
+
+Scalled
+{
+scalled:(0)
+}
+
+Challanged
+{
+challanged:(1)
+}
+
+Tech Fouls
+{
+TF:(0)
+}
+
+Teleop Comments
+{
+TC:()
+}
+
+Played Defense
+{
+PD:(0)
+}
+
+#End
